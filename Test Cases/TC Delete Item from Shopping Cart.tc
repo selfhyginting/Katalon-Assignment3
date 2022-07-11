@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Delete Item from Shopping Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c360b717-9ceb-40c6-b74e-73c7a40953bf</testCaseGuid>
+</TestCaseEntity>
